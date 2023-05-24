@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto 4 em C# - concertando erro\Projeto quatro\Projeto quatro\bin\Debug\Projeto quatro.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto 4 em C# - concertando erro\Projeto quatro\Projeto quatro\bin\Debug\Projeto quatro.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto 4 em C# - concertando erro\Projeto quatro\Projeto quatro\bin\Debug\Projeto quatro.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto 4 em C# - concertando erro\Projeto quatro\Projeto quatro\obj\Debug\Projeto quatro.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto 4 em C# - concertando erro\Projeto quatro\Projeto quatro\obj\Debug\Projeto quatro.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto 4 em C# - concertando erro\Projeto quatro\Projeto quatro\obj\Debug\Projeto quatro.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto 4 em C# - concertando erro\Projeto quatro\Projeto quatro\obj\Debug\Projeto quatro.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto 4 em C# - concertando erro\Projeto quatro\Projeto quatro\obj\Debug\Projeto quatro.pdb
